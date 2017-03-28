@@ -1,0 +1,4 @@
+Bogota,
+Cali,
+Medellin,
+Manizales

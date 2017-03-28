@@ -1,0 +1,3 @@
+Options +FollowSymLinks -MultiViews
+RewriteEngine on
+RewriteRule ^([a-zA-Z_-]*)$ cursos.php?cid=$1
